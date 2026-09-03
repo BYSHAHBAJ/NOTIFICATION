@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "title": "TEST NOTIFICATION",
-  "message": "NOTIFICATION_TEST"
+  "title": "New APK Release Notice",
+  "message": "New APK v1.1.0.290 Releasing in a hour"
 }
